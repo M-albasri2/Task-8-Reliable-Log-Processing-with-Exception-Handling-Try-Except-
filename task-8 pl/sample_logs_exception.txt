@@ -1,0 +1,11 @@
+2026-02-05 08:11:20 | warn | api | Slow response detected (920ms)
+2026-02-05 08:11:21 | INFO | auth | User login success
+BAD LINE WITHOUT SEPARATORS
+2026-02-05 08:11:22 | DEBUG | api | debug message
+2026-02-05 08:11:23 | ERROR | db | DB timeout while fetching profile
+2026-02-05 08:11:24 | ERROR |  | Missing service field
+2026-02-05 08:11:25 | WARN | cache |  
+2026-02-05 | INFO | auth | ok | EXTRA
+  2026-02-05 08:11:26|Error|payments|Payment gateway returned 502  
+   
+2026-02-05 08:11:27 | INFO | gateway | GET /health 200 (30ms)
